@@ -61,6 +61,15 @@ body {
     }
   }
 
+  h1:before{
+    content: "";
+    display: block;
+    background: url("drapeau.gif") center center no-repeat;
+    width: 137px;
+    height: 81px;
+    margin-bottom: 0.5em;
+  }
+
   .name {
     color: #253445;
     font-size: 1.4em;
