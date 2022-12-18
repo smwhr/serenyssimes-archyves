@@ -16,17 +16,19 @@
 body {
   font-family: "Work Sans", sans-serif;
   color: #394655;
-  background: #fffef7;
+  background: brown;
   font-size: 1.2em;
-  h1{font-size: 3rem;}
+  h1{font-size: 3rem; font-weight: 700;font-family: PlayfairDisplay;font-style: italic;}
   h4{margin-bottom: 3rem;text-align: right;}
   p{margin-bottom: 1.1rem; line-height: 1.75rem;}
 }
 
 .container {
-  margin: 40px auto;
+  margin: 0 auto;
+  padding: 40px 1em;
   width: 90%;
   max-width: 600px;
+  background-color: #fffef7;
 
   blockquote {
     margin: 16px 0;
@@ -89,6 +91,9 @@ body {
   .content{
     ul{
       margin-bottom: 1.1rem;
+    }
+    ol, ul{
+      margin-left: 1em;
     }
     hr{
       margin-top: 1em;
