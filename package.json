@@ -3,6 +3,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "scripts": {
       "build": "eleventy && npm run sass",
+      "build:prod": "eleventy --pathprefix 'serenyssimes-archyves' && npm run sass",
       "serve": "concurrently 'eleventy --serve' 'npm run sass:watch'",
       "sass": "sass styles/:_site/styles/",
       "sass:watch": "npm run sass && npm run sass -- -w",
