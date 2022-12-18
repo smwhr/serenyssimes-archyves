@@ -1,0 +1,25 @@
+{% include _head %}
+
+    <div class="container post-container">
+      <div class="back-link">
+        <a href="/">← Back</a>
+      </div>
+      <em class="meta">
+      {% if series %}
+         Dans la série : {{ series }}
+      {% endif %}</em>
+      <h1>{{ title }}</h1>
+      <em class="meta">{{ date | toYsTime }} 
+      {% if authors.length %}
+        {% for author in authors %}
+         — {{ author | capitalize }}
+        {% endfor %}
+      {% endif %}</em>
+
+      <div class="content">{{ content }}</div>
+      <div class="back-link">
+        <a href="/">← Back</a>
+      </div>
+    </div>
+
+{% include _foot.liquid %}

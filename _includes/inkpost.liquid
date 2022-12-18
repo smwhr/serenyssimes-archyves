@@ -1,0 +1,32 @@
+{% include _head %}
+
+    <script src="https://unpkg.com/inkjs@2.0.0/dist/ink-es2015.js"></script>
+    <script src="/assets/scripts/inkplayer.js"></script>
+
+    <div class="container post-container">
+      <div class="back-link">
+        <a href="/">← Back</a>
+      </div>
+      <h1>{{ title }}</h1>
+      <em class="meta">{{ date | date: '%B %e, %Y' }} 
+      {% if categories.length %}
+        {% for category in categories %}
+         — {{ category | capitalize }}
+        {% endfor %}
+      {% endif %}</em>
+
+      <div class="content">
+
+        <div id="story" class="container">
+            <div class="header">
+                <div>{{ content }}</div>
+            </div>
+        </div>
+
+      </div>
+      <div class="back-link">
+        <a href="/">← Back</a>
+      </div>
+    </div>
+
+{% include _foot %}

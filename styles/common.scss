@@ -1,0 +1,131 @@
+::selection {
+  color: white;
+  background-color: brown;
+}
+
+::-moz-selection {
+  color: white;
+  background-color: brown;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Work Sans", sans-serif;
+  color: #394655;
+  background: #fffef7;
+  font-size: 1.2em;
+  h1{font-size: 3rem;}
+  h4{margin-bottom: 3rem;text-align: right;}
+  p{margin-bottom: 1.1rem; line-height: 1.75rem;}
+}
+
+.container {
+  margin: 40px auto;
+  width: 90%;
+  max-width: 600px;
+
+  blockquote {
+    margin: 16px 0;
+    padding: 0 1em;
+    color: brown;
+    border-left: 0.25em solid;
+  }
+}
+
+.homepage{
+  
+  .name{font-size: 1.2rem;margin-bottom: 1rem;}
+
+  .tags{margin-top: 2rem; color: #333;}
+
+  .category {
+    margin-top: 25px;
+    margin-bottom: 10px;
+  }
+
+  .posts {
+    list-style: none;
+    .post {
+      margin-top: 0.5rem;
+      line-height: 1.5rem;
+      &-date {
+        font-size: 12px;
+        color: #585858;
+      }
+    }
+  }
+
+  .name {
+    color: #253445;
+    font-size: 1.4em;
+    line-height: 1.2em;
+    margin-bottom: 1em;
+    font-family: Orelega One;
+  }
+
+  p {
+    margin: 8px 0;
+  }
+}
+
+.post-container{
+  h1{ 
+    font-family: PlayfairDisplay;
+    font-weight: 700;
+    font-style: italic;
+    margin-bottom: 0.1rem;
+    margin-top: 0.5rem;
+  }
+  .meta{
+    text-align: right;
+    display: block;
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+  }
+  .content{
+    ul{
+      margin-bottom: 1.1rem;
+    }
+    hr{
+      margin-top: 1em;
+      margin-bottom: 1.5em;
+    }
+    h3{
+      text-align: center;
+      margin-bottom: 0.8em;
+    }
+  }
+}
+
+
+#story.container{
+ .hide { opacity: 0.0;}
+  .invisible { display: none; }
+  &>* {
+    opacity: 1.0;
+    transition: opacity 1.0s;
+  }
+}
+
+
+
+a {
+  text-decoration: none;
+  color: brown;
+
+  &:hover {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .container {
+    margin: 32px 5%;
+    width: inherit;
+  }
+}

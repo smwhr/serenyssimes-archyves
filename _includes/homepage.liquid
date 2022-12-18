@@ -1,0 +1,26 @@
+{% include _head %}
+
+    <div class="container homepage">
+      {{ content }}
+      <h2 class="category">Posts <small></h2>
+      <ul class="posts">
+        {% for post in collections.articles reversed %}
+          {% if post.data.duplicate %}
+          {% else %}
+            <li class="post">
+              <span class="post-title">
+                {% if post.data.defectueux %}
+                {{ post.data.title }}  📑
+                {% else %}
+                <a href="{{ post.url }}">{{ post.data.title }}</a>
+                {% endif %}
+              </span>
+              <span class="post-date">
+                {{ post.date | toYsTime }}
+              </span>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+{% include _foot.liquid %}
