@@ -1,6 +1,6 @@
 ---
 series: Opératyon Trident
-title: "Opératyon Trident : Interlude"
+title: "Opératyon Trident : Acte II"
 authors: [Edorel de Mytilène, Julius de Paxatagore]
 date: 2017-04-06
 ---
