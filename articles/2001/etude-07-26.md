@@ -1,7 +1,7 @@
 ---
 title: "Rapport du capitaine pyssenly aux autorites militaires sur la culture du pavot"
 authors: [Anaclet de Paxatagore]
-date: 2002-07-11
+date: 2001-07-26
 ---
 
 _publié à l'Institut Impérial d'Hystoire et d'Archéologie d'Hystoire virtuelle_
