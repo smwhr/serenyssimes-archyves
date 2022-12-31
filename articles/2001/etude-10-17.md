@@ -24,7 +24,7 @@ Milieu d'après midi, nous dînons du plat locale dénommé "frriitttes" (orthog
 
 Nous quittons (à regret) la "Béleugique" et ses insondables mystères religieux pour nous diriger vers la "Haut Lande" où, dis-t-on je pourrais me procurer un palliatif de l'opium (qui me manque un peu).
 
---
+---
 
 **JOUR 22 :**
 
