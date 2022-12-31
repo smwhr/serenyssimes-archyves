@@ -1,5 +1,5 @@
 ---
-title: "Rapport du capitaine pyssenly aux autorites militaires sur la culture du pavot"
+title: "Rapport du capitaine Pyssenly aux autorites militaires sur la culture du pavot"
 authors: [Anaclet de Paxatagore]
 date: 2001-07-26
 ---
