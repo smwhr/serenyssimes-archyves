@@ -24,3 +24,4 @@ Jugement : Intéressante découverte, à exploiter.
 
 - _Traductyon du Premier Manuscrit_ par Fenelis Pitard-Aaron. (13/20 - le 20/06/2002)
 - [Traductyon des second et troisième manuscrits](../etude-06-20) par Fenelis Pitard-Aaron. (3/20 - le 20/06/2002)
+- [De la fouille subaquatique](../etude-07-11) par Penthésylé de Sphettos. (18/20 - le 11/07/2002)
