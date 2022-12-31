@@ -1,12 +1,12 @@
 ---
-title: "La première croisade et Ys"
-authors: [Grygus de Paxatagore]
+title: "Une explication par Grygus de Paxatagore en personne"
+authors: [Lool De Virion, Grygus de Paxatagore]
 date: 2001-06-18
 ---
 
 _publié à l'Institut Impérial d'Hystoire et d'Archéologie d'Hystoire virtuelle_
 
-**Résumé** : Les commentaires de notre Doyen semblent être prophétiques, car voici un document propre à nuancer mes propos concernant les Yssois au cours de la première croisade.
+**Résumé** : [Les commentaires](../etude-06-14) de notre Doyen semblent être prophétiques, car voici un document propre à nuancer mes propos concernant les Yssois au cours de la première croisade.
 
 ---
 
