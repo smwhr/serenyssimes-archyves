@@ -7,7 +7,7 @@ date: 2007-10-16
 
 ### La carte
 
-![plateau.jpg](plateau.jpg)
+![plateau.jpg](../plateau.jpg)
 
 ### Petit lexyque des comptoirs et escales :
 
