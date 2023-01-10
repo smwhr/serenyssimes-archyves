@@ -115,6 +115,19 @@ body {
     img{
       max-width: 100%;
     }
+    table {
+      background-color: #fffef7;
+    }
+    td, th {
+      padding: 0.2em;
+      font-size: 0.6em;
+    }
+    th {
+      border: 1.5px solid;
+    }
+    td {
+      border: 1px solid;
+    }
   }
 }
 
