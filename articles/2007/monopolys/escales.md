@@ -2,7 +2,7 @@
 series: Monopolys
 title: Les escales du Monopolys
 authors: [Père Phidias, Maltys d'Ysville]
-date: 2007-10-16
+date: 2007-10-14
 ---
 
 ### La carte

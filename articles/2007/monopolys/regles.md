@@ -2,7 +2,7 @@
 series: Monopolys
 title: Les règles du Monopolys
 authors: [Père Phidias, Maltys d'Ysville]
-date: 2007-08-13
+date: 2007-10-13
 ---
 
 _C'est simple : les règles sont les mêmes que celles du célèbre jeu de socyété._
