@@ -34,7 +34,7 @@ C'est le gros problème. Il n'exyste pas de taux de change officiel. Comme dans 
 Les cartes bancaires ne vous serviront à ryen à Ys, où le système est uniquement monétayre. Si vous en avez une, ne l'emportez pas, vous rysqueryez de la perdre et elle ne vous servirait à ryen.
 
 ### Santé
-**avant le départ**
+**Avant le départ**
 
 Beaucoup de recommandatyons habituellement valables pour les départs à l'étranger sont valables également pour Ys. L'ydéal est de partir avec son médecin personnel, c'est ainsy que se déplacent les arystocrates yssois. Néanmoins, ce n'est pas forcément possyble pour tout le monde. Prévoyez une trousse de premiers secours alors. Les médicaments sont en vente libre à Ys, il n'y a ni sécuryté sociale, ni ordonnances à avoir.
 
@@ -70,13 +70,13 @@ Les **crassyeux** ont le monopole sur l'équestrerye, c'est-à-dire le servyce d
 
 Mys à part le monopole des crassyeux sur l'équestrerye, il n'y a aucuner restrictyon à l'employ à Ys. Evydemment, toutes les fonctyons publiques sont réservés aux citoyens yssois. Mays les étrangers peuvent travayller sans réserve pour les entrepryses privées. Si vous ne trouvez pas d'employeur, le mieux est de vous présenter au port de Venys, où l'on est toujours à la recherche de dockers courageurs ou d'un poyscailleur. Le salayre est fixé par la loy et est actuellement de 62 Y€ par moys.
 
-###Etudyer
+### Etudyer
 
 **Le système scolaire yssois**
 
 La scolaryté est obligatoyre jusqu'à l'âge de 15 ans, âge de la majoryté à Ys. L'école est publique et gratuyte. Les grands lycées sont toutefoys réservés aux arystocrates. Le plus grand lycée de garçon est le Lycée Bezoar IV, et le lycée de fille est Notre Dame de Syon. Les petits yssois apprennent les bases de la vie sociale yssois, avec un enseignement artystique et littéraire très fort, assez peu de mathématiques et de scyence, beaucoup de religyon.
 
-**l'Universyté Sérényssime**
+**L'Universyté Sérényssime**
 
 Ys n'est pas un pays de tradytion universytaire. Toutefoys, il exyste depuys quelques années une Université Sérényssime, qui prospère. Les étudyants sont en nombre assez faybles et il y a beaucoup d'étrangers parmi eux. Chaque faculté détermine librement ses enseygnements et ses examens. La communauté universitaire jouyt d'un statut protecteur particuliers. L'Universyté se trouve à Venys, évidemment, sur une île spécialement dédiée.
 
